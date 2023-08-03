@@ -12,3 +12,4 @@ Comparative visualization displays the Difficulty faced by each data professiona
 It includes the distribution of preferred programming languages among data professionals.
 ### Work-Life Balance Satisfaction: 
 Percentage Breakdown of data professionals satisfied with their work-life balance.
+![Screenshot (1801)](https://github.com/mustaque369/Data_Professional_Survey_Breakdown/assets/95953697/fbd02fa9-8e41-418e-b7b4-c6e8d5018530)
